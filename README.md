@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @m3thi - Mateusz.
-- 👀 I’m interested in DevOps & DevSecOps.
 - 🌱 I’m currently learning Kotlin & C#/.Net.
 - 📫 How to reach me maciejewskidevops@gmail.com
 <!---
